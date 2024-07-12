@@ -1,32 +1,11 @@
 {
   "templates": [
     {
-      "name": "Sentry Java",
-      "logo": "",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": ""
-    },
-    {
-      "name": "Sentry Java",
-      "logo": "",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": ""
-    },
-    {
-      "name": "Sentry Java",
-      "logo": "",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": ""
-    },
-    {
-      "name": "Sentry Java",
-      "logo": "",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": ""
+      "name": "Topcorn",
+      "logo": "https://github.com/theapache64/topcorn/raw/master/extras/title.png",
+      "description": "A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools",
+      "template_url": "https://consoledev.dashwave.io/template/16/launch",
+      "tech_stack": "GRADLE"
     }
   ]
 }
