@@ -6,6 +6,13 @@
       "description": "A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools",
       "template_url": "https://consoledev.dashwave.io/template/16/launch",
       "tech_stack": "GRADLE"
+    },
+    {
+      "name": "Sentry SDK",
+      "logo": "https://sentry-brand.storage.googleapis.com/sentry-logo-white.png",
+      "description":"A Sentry SDK for Java, Android and other JVM languages.",
+      "template_url": "https://consoledev.dashwave.io/template/19/launch",
+      "tech_stack": "GRADLE"
     }
   ]
 }
