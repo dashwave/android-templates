@@ -2,35 +2,35 @@
   "templates": [
     {
       "name": "Sentry Java",
-      "logo": "",
+      "logo": "https://sentry-brand.storage.googleapis.com/sentry-logo-white.png",
       "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": "",
-      "repo_url": ""
+      "template_url": "https://console.dashwave.io/template/4/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/getsentry/sentry-java"
     },
     {
-      "name": "Sentry Java",
-      "logo": "",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": "",
-      "repo_url": ""
+      "name": "Leak Canary",
+      "logo": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-88W_-iqkTJ93iL7lCOHCg.png",
+      "description": "A memory leak detection library for Android.",
+      "template_url": "https://console.dashwave.io/template/6/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/square/leakcanary"
     },
     {
-      "name": "Sentry Java",
-      "logo": "",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": "",
-      "repo_url": ""
+      "name": "AnkiDroid",
+      "logo": "https://github.com/ankidroid/Anki-Android/blob/7f1317245d14b037da096fba60e51ec4b2f918cc/docs/graphics/logos/ankidroid_logo.png",
+      "description": "A semi-official port of the open source Anki spaced repetition flashcard system to Android. Memorize anything with AnkiDroid!",
+      "template_url": "https://console.dashwave.io/template/7/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/ankidroid/Anki-Android"
     },
     {
-      "name": "Sentry Java",
-      "logo": "",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "",
-      "tech_stack": "",
-      "repo_url": ""
+      "name": "AmazeFileManager",
+      "logo": "https://github.com/TeamAmaze/AmazeFileManager/blob/978fa998810d6805802488d4fbf79a6eda0bfc45/icon.png",
+      "description": "Simple and attractive Material Design file manager for Android",
+      "template_url": "https://console.dashwave.io/template/8/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/TeamAmaze/AmazeFileManager"
     }
   ]
 }
