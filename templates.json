@@ -18,7 +18,7 @@
     },
     {
       "name": "AnkiDroid",
-      "logo": "https://github.com/ankidroid/Anki-Android/blob/7f1317245d14b037da096fba60e51ec4b2f918cc/docs/graphics/logos/ankidroid_logo.png",
+      "logo": "https://raw.githubusercontent.com/ankidroid/Anki-Android/7f1317245d14b037da096fba60e51ec4b2f918cc/docs/graphics/logos/ankidroid_logo.png",
       "description": "A semi-official port of the open source Anki spaced repetition flashcard system to Android. Memorize anything with AnkiDroid!",
       "template_url": "https://console.dashwave.io/template/7/launch",
       "tech_stack": "GRADLE",
@@ -26,7 +26,7 @@
     },
     {
       "name": "AmazeFileManager",
-      "logo": "https://github.com/TeamAmaze/AmazeFileManager/blob/978fa998810d6805802488d4fbf79a6eda0bfc45/icon.png",
+      "logo": "https://raw.githubusercontent.com/TeamAmaze/AmazeFileManager/978fa998810d6805802488d4fbf79a6eda0bfc45/icon.png",
       "description": "Simple and attractive Material Design file manager for Android",
       "template_url": "https://console.dashwave.io/template/8/launch",
       "tech_stack": "GRADLE",
