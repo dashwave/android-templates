@@ -31,6 +31,46 @@
       "template_url": "https://console.dashwave.io/template/8/launch",
       "tech_stack": "GRADLE",
       "repo_url": "https://github.com/TeamAmaze/AmazeFileManager"
+    },
+    {
+      "name": "Glide",
+      "logo": "https://raw.githubusercontent.com/bumptech/glide/a7351b0ecf6656ad937fbc52fe9e90d3b289c265/static/glide_logo.png",
+      "description":"Glide is a fast and efficient open source media management and image loading framework for Android",
+      "template_url": "https://console.dashwave.io/template/9/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/bumptech/glide"
+    },
+    {
+      "name": "Chucker",
+      "logo": "https://raw.githubusercontent.com/ChuckerTeam/chucker/526131456b5aec68a1ff182403f73441fde335c7/assets/ic_launcher-web.png",
+      "description": "Chucker is a simple library to inspect OkHTTP traffic directly from your application",
+      "template_url": "https://console.dashwave.io/template/10/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/ChuckerTeam/chucker"
+    },
+    {
+      "name": "Tasks",
+      "logo": "https://avatars.githubusercontent.com/u/220908?v=4",
+      "description": "A simple task list app for Android, written in Kotlin",
+      "template_url": "https://console.dashwave.io/template/11/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/tasks/tasks"
+    },
+    {
+      "name": "Lottie",
+      "logo": "https://avatars.githubusercontent.com/u/698437?s=48&v=4",
+      "description": "Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!",
+      "template_url": "https://console.dashwave.io/template/12/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/airbnb/lottie-android"
+    },
+    {
+      "name": "Telegram",
+      "logo": "https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-1024.png",
+      "description": "Telegram is a messaging app with a focus on speed and security. It's superfast, simple and free.",
+      "template_url": "https://console.dashwave.io/template/13/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/DrKLO/Telegram"
     }
   ]
 }
