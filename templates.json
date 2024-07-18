@@ -71,6 +71,14 @@
       "template_url": "https://console.dashwave.io/template/13/launch",
       "tech_stack": "GRADLE",
       "repo_url": "https://github.com/DrKLO/Telegram"
+    },
+    {
+      "name": "Compose Backstack",
+      "logo": "https://avatars.githubusercontent.com/u/1884445",
+      "description": "Simple composable for rendering transitions between backstacks.",
+      "template_url": "https://console.dashwave.io/template/17/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/rjrjr/compose-backstack"
     }
   ]
 }
