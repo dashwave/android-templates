@@ -79,6 +79,14 @@
       "template_url": "https://console.dashwave.io/template/17/launch",
       "tech_stack": "GRADLE",
       "repo_url": "https://github.com/rjrjr/compose-backstack"
+    },
+    {
+      "name": "Landscapist",
+      "logo":"https://user-images.githubusercontent.com/24237865/127760344-bb042fe8-23e1-4014-b208-b7b549d32086.png",
+      "description":"Landscapist is a highly optimized, pluggable Jetpack Compose and Kotlin Multiplatform image loading solution",
+      "template_url": "https://console.dashwave.io/template/19/launch",
+      "tech_stack": "GRADLE",
+      "repo_url":"https://github.com/skydoves/landscapist"
     }
   ]
 }
