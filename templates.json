@@ -1,14 +1,6 @@
 {
   "templates": [
     {
-      "name": "Sentry Java",
-      "logo": "https://sentry-brand.storage.googleapis.com/sentry-logo-white.png",
-      "description": "A Sentry SDK for Java, Android and other JVM languages.",
-      "template_url": "https://console.dashwave.io/template/4/launch",
-      "tech_stack": "GRADLE",
-      "repo_url": "https://github.com/getsentry/sentry-java"
-    },
-    {
       "name": "Leak Canary",
       "logo": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-88W_-iqkTJ93iL7lCOHCg.png",
       "description": "A memory leak detection library for Android.",
