@@ -71,6 +71,15 @@
       "template_url": "https://console.dashwave.io/template/19/launch",
       "tech_stack": "GRADLE",
       "repo_url":"https://github.com/skydoves/landscapist"
+    },
+    {
+      "name": "Herelo",
+      "logo": "https://github.com/PalankiBharat/HeroIo/blob/master/composeApp/src/androidMain/ic_launcher_hero-playstore.png?raw=true",
+      "link": "https://github.com/PalankiBharat/HeroIo",
+      "description": "Allows users to explore various superheroes, view detailed information, and chat with them using an AI-powered chat feature.",
+      "template_url": "https://console.dashwave.io/template/114/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/PalankiBharat/HeroIo"
     }
   ]
 }
