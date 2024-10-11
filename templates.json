@@ -71,6 +71,14 @@
       "template_url": "https://console.dashwave.io/template/19/launch",
       "tech_stack": "GRADLE",
       "repo_url":"https://github.com/skydoves/landscapist"
+    },
+    {
+      "name": "Picasso",
+      "logo": "https://github.com/square/picasso/blob/master/website/static/sample.png?raw=true",
+      "description": "A powerful image downloading and caching library for Android",
+      "template_url": "https://console.dashwave.io/template/112/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/square/picasso"
     }
   ]
 }
