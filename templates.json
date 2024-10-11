@@ -71,6 +71,14 @@
       "template_url": "https://console.dashwave.io/template/19/launch",
       "tech_stack": "GRADLE",
       "repo_url":"https://github.com/skydoves/landscapist"
+    },
+    {
+      "name": "Spotify SDK",
+      "logo": "https://developer.spotify.com/images/guidelines/design/icon3.svg",
+      "description": "The Spotify Android SDK allows your application to interact with the Spotify app service.",
+      "template_url": "https://console.dashwave.io/template/115/launch",
+      "tech_stack": "GRADLE",
+      "repo_url": "https://github.com/spotify/android-sdk"
     }
   ]
 }
